@@ -1,0 +1,26 @@
+#title {
+  text-align:center;
+  font-size:40px;
+  color:#662200;
+  font-weight:bold;
+  font-family:sans-serif;
+}
+
+#maintext {
+  font-style:italic;
+  position:fixed;
+  margin-left: 200px;
+}
+
+#navigation {
+  position:fixed;
+  color:#662200;
+  font-family:sans-serif;
+
+}
+
+#navigation a {
+  color:#662200;
+  font-size: 20px;
+  text-decoration: none;
+}
